@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509928083734",
+    "project_id": "plantasya-9db71",
+    "firebase_url": "https://plantasya-9db71-default-rtdb.europe-west1.firebasedatabase.app/",
+    "storage_bucket": "plantasya-9db71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509928083734:android:fb0ae60b10817b57e98037",
+        "android_client_info": {
+          "package_name": "com.unity.plantasya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509928083734-n0j1grmmga7084h0g2dgla9k71vk737j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbuJ9857LT_3MS44WGKzqHRfO8s8cHuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509928083734-n0j1grmmga7084h0g2dgla9k71vk737j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
